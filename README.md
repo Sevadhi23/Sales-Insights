@@ -1,1 +1,1 @@
-[Sales Insights Dashboard] sales_insights....pbix
+[Sales Insights Dashboard] Sales Insights.PNG
